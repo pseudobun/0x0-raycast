@@ -6,6 +6,10 @@
   "icon": "0x0.png",
   "author": "pseudobun",
   "license": "MIT",
+  "categories": [
+    "Applications",
+    "Media"
+  ],
   "commands": [
     {
       "name": "index",
