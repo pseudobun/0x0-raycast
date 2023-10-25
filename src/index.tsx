@@ -51,7 +51,7 @@ export default function Command() {
     <Form
       actions={
         <ActionPanel>
-          <Action.SubmitForm title="Submit Name" onSubmit={() => handleSubmit()} />
+          <Action.SubmitForm title="Upload" onSubmit={() => handleSubmit()} />
         </ActionPanel>
       }
       isLoading={uploading}

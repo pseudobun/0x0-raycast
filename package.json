@@ -2,15 +2,15 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "0x0",
   "title": "0x0",
-  "description": "",
-  "icon": "command-icon.png",
+  "description": "Upload files to https://0x0.st.",
+  "icon": "0x0.png",
   "author": "pseudobun",
   "license": "MIT",
   "commands": [
     {
       "name": "index",
-      "title": "Upload to 0x0",
-      "description": "",
+      "title": "Upload",
+      "description": "Select a file and upload it to 0x0.st.",
       "mode": "view"
     }
   ],
